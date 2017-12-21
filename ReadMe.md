@@ -6,9 +6,9 @@ Afin de pouvoir garder une trace de notre code, nous avons utilisé les Notebook
 - Pour plus de visibilité et d'intéraction, nous vous conseillons fortement d'utiliser Jupyter Notebook. La marche à suivre est expliqué ci-dessous
 
 ```sh
-git clone https://github.com/chivunito/Apprentissage.git
-cd Apprentissage
-jupyter notebook tp3notebook.ipynb
+git clone https://github.com/BastienBigue/Clustering.git
+cd Clustering
+jupyter notebook UnsupervisedLearning.ipynb
 ```
 Votre navigateur par défaut s'ouvrira alors et vous accéderez à notre notebook. 
 
